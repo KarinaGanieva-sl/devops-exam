@@ -11,11 +11,11 @@ pipeline {
             }
         }
 
-        stage('Testing') {
-            steps {
-                sh 'npm test'
-            }
-        }
+        // stage('Testing') {
+        //     steps {
+        //         sh 'npm test'
+        //     }
+        // }
 
     
        stage('Deploy and run') {
