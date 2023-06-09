@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest app.test.js"
+  },
+  "name": "exam",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarinaGanieva-sl/devops-exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarinaGanieva-sl/devops-exam/issues"
+  },
+  "homepage": "https://github.com/KarinaGanieva-sl/devops-exam#readme",
+  "description": ""
+}
