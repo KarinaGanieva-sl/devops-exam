@@ -32,6 +32,7 @@ pipeline {
 
         stage('Installing dependencies') {
             steps {
+                sh 'npm install jest'
                  sh 'npm install express'
             }
         }
