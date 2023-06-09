@@ -4,7 +4,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "test": "jest app.test.js"
+    "test": "jest server.test.js"
   },
   "name": "exam",
   "version": "1.0.0",
